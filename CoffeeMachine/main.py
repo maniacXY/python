@@ -7,11 +7,11 @@ import time
 
 MENU = data.MENU
 meinangebot = " / ".join([x.capitalize() for x in MENU.keys()])
-RESOURCES = data.resources
-MONEY = 0
+RESOURCESX = data.resources
+MONEYX = 0
 REFILLCODE = 123
 
-def support(userinput, resources, money=MONEY):
+def support(userinput, resources, money):
     if userinput == "quit":
         clear()
         print(shutdown)
@@ -73,13 +73,14 @@ def resources_left(resources, userchoice):
 
 def machine():
     print("FUCK YOU")
-    print(RESOURCES)
-    resources = RESOURCES
+    print(RESOURCESX)
+    resources = RESOURCESX
     print(resources)
-    money = MONEY
+    money = MONEYX
     running = True
     while running: 
         
+        money = 0
         userinput = (input(f"What would you like? ({meinangebot}): ")).lower()
         if userinput == "report" or userinput == "quit":
             support(userinput, resources, money)
@@ -106,7 +107,7 @@ def machine():
         print(f"Serving {userinput.capitalize()}, have a nice day! ")
 
         # some prozessing
-        # resources = resources_left(resources, MENU[userinput]['ingredients']) 
+        resources = resources_left(resources, MENU[userinput]['ingredients']) 
         money += MENU[userinput]['cost']
 
 machine()

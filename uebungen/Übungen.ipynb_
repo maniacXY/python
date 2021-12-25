@@ -95,7 +95,7 @@
     "Ich bekomme 1000€ geschenkt. Kaufe mir für 250€ Bücher und Sonsteiges für 125€\n",
     "- Gib den Rest aus.\n",
     "- Den Rest teile ich mit meinen 2 Freunde in gleichen Anteilen. Wie viel bekommt eine Person?\n",
-    "- google nach der Funktion ```round()``` und gebe die Zahl mit 2 Dezimalstellen aus\n",
+    "- google nach der Funktion **round()** und gebe die Zahl mit 2 Dezimalstellen aus\n",
     "- führe die Berechnung ohne Zahlen durch (nur mit Varialen)\n",
     "- führe die Berechnung in einer Zeile incl Ausgabe aus\n",
     "- verändere die unrsprüngliche 1000 € auf 1250 ohne die Berechnung zu ändern und gib das Ergebnis aus\n",
@@ -119,10 +119,10 @@
    "source": [
     "## Aufgabe 2:\n",
     "Ich habe einen Kuchen und möchte ihn auf 8 Stücke aufteilen.\n",
-    "    - 3 Personen, jede soll gleich viel bekommen. Wie viel bekommt jede Person?\n",
-    "        - beachte das man ein Stück nicht mehr Teilen kann (keine Fließkommazahlen möglich)\n",
-    "    - berechne den Rest\n",
-    "    - ändere die 8 Stücke auf 6\n",
+    "- 3 Personen, jede soll gleich viel bekommen. Wie viel bekommt jede Person?\n",
+    "    - beachte das man ein Stück nicht mehr Teilen kann (keine Fließkommazahlen möglich)\n",
+    "- berechne den Rest\n",
+    "- ändere die 8 Stücke auf 6\n",
     "     \n",
     "      \n"
    ]
@@ -152,7 +152,7 @@
    "source": [
     "## 2. Input manipulation\n",
     "\n",
-    "Erstelle Variablen und frage den User nach 2 Zahlen; die Ausgabe soll exakt wie unten aussehen: (z.B. var1=5, var2=8)\n",
+    "Erstelle Variablen und frage den User nach 2 Zahlen; die Ausgabe soll exakt wie unten aussehen: (z.B. *var1=5*, *var2=8*)\n",
     "- gib die Zahlen aus \n",
     "    - ``Zahl 1: 5``\n",
     "    - ``Zahl 2: 8``    \n",
@@ -210,20 +210,10 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 57,
+   "execution_count": null,
    "id": "76cb9b03",
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Richtig\n",
-      "True\n",
-      "<class 'bool'>\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "#was erwartest du für eine Ausgabe? Welche Ausgabe erwartets du von print(a==5) und welcher Type kommt raus?\n",
     "# drücke STRG+RETURN und führe die Funktion aus\n",

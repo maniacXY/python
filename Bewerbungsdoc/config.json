@@ -1,0 +1,1 @@
+{"main_menu": ["Quit&Save", "Show Data", "Edit Data"], "create_menu": ["Quit&Save", "Main Menu", "Create Item", "Change Item", "Delete Item"], "show_menu": ["Quit&Save", "Main Menu", "All", "ByIndex", "Search", "Sort after"], "csv_data": "data.csv", "sep": ";", "status__auswahl": ["Absage", "Anschauen", "Bearbeitung", "Uninteressant", "Wiedervorlage"]}

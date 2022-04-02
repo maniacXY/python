@@ -10,6 +10,15 @@ Minimalistisches Consolenprogramm mit pandas und CSV
 Hier kannst du deine Bewerbungen einfach speichern, bearbeiten und abrufen. 
 Das Programm basiert nur auf einer CSV-Datei und kann somit einfach in Excel oder LibreCalc importiert werden.
 
+## Momentaner Stand
+
+Auf Linux Ubuntu getestet
+Python-Script momentan nur fehlerfrei ausführbar wenn man sich im selben verzeichnis befindet (chmod 600) reicht aus. 
+
+Um es vom Terminal überall aufrufen zu können habe ich mir mit einer bash-alias beholfen
+
+`alias MYALIAS="cd ~/SCRIPT/MenuClass.py && python3 MenuClass.py"`
+
 
 ## Bevor es los geht
 

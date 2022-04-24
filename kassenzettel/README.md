@@ -18,3 +18,5 @@ Die Artikel werden so lange aufgelistet bis `sum` gedrückt wird und zeigt dann 
 
 Frägt das Produkt und die Menge ab und spuckt am Ende einen "Kassenzettel" aus
 
+## Ich hoffe es läuft
+Ist nicht komplett getestet aber mit den Standardeinstellungen passt es. 

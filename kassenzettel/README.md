@@ -20,3 +20,6 @@ Frägt das Produkt und die Menge ab und spuckt am Ende einen "Kassenzettel" aus
 
 ## Ich hoffe es läuft
 Ist nicht komplett getestet aber mit den Standardeinstellungen passt es. 
+
+## actual
+Bin gerade dabei mit SimpleGui etwas rumzutesten um es zu visualiseren

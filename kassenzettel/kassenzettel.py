@@ -57,7 +57,7 @@ while eingabe:
     clear()
     kasse.product_print()
     product = input("\nWelches Produkt? ")
-    anzahl = int(input("Wie viel? (int)\n"))
+     anzahl = int(input("Wie viel? (int)\n"))
     kasse.header()
     kasse.add_article(product, anzahl)
     weiter = input("\nNoch ein Pordukt oder Summe? (y/sum)").lower()

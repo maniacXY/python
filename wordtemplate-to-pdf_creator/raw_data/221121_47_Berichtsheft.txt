@@ -1,0 +1,9 @@
+Montag;JsonConverter abgeschlossen und getestet
+Montag;Schulung Naming.lib + Test
+Dienstag;Git-Konzept erstellt und getestet, .gitignore bearbeitet 
+Dienstag;Praktikumsbesuch
+Mittwoch;altes git-repo in Azure-Cloud migriert, aufgeräumt, getestet
+Mittwoch;in AzureCloud dokumentiert, .md-Doku auf Azure migriert
+Donnerstag;Git-Konzept und Workflow erstellt mit drawio
+Donnerstag;Git Konzept vorgestellt
+Freitag;Dokumentation JsonFormater, merge with dev, bugfix

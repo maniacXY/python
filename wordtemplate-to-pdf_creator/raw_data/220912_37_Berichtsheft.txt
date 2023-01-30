@@ -1,0 +1,9 @@
+Montag;Json_Formater ausprogrammiert und getestet
+Montag;json_outputter-Klasse erstellt
+Dienstag;JsonFormater ausprogrammiert, JsonOutput-Clas erstellt
+Dienstag;Test JsonFormater, JsonOutput, Review
+Mittwoch;JsonFormater Struktur angepasst und erweitert, Ausgabe in json
+Donnerstag;Documentation, JsonFormater überarbeitet
+Donnerstag;DFC Support, DFC InstallFix
+Freitag;Schnittstelle für Prefixe gebaut
+Freitag;Teilelemente in Klasse EntityPrefix ausgelagert

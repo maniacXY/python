@@ -1,0 +1,5 @@
+Montag;git-Infrastrukture for dfc-Client/Server, Tests, Docu
+Dienstag;startet with JsonParse, Internetrecherche, Tests
+Mittwoch;Continues work on JsonParser, Recherche, Tests
+Donnerstag;continue JsonParser
+Freitag;Code Review, git repos eingereichtet, Server cleaned and bugfixes

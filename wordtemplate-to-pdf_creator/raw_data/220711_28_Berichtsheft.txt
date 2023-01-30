@@ -1,0 +1,8 @@
+Montag;Access-Datenbank, 1st-level-support, TeamsBot recherche
+Dienstag;Access-Datenbank,PowerShell-Script,TeamsBot 
+Mittwoch;Powershell-Script finalisieren und testen
+Mittwoch;Abschluss recherche TeamBot
+Donnerstag;Script-Test bei Usern + Überarbeitung
+Donnerstag;First-Level-Support,Beantragung: VS-Code/Studio
+Freitag;Homeoffice einrichten, Softwareinstallation
+Freitag;Sicherheitseinweisungen,C#-Kurs

@@ -1,0 +1,11 @@
+Montag;Micorsoft Azure Kurs, Cloud Grundlagen
+Montag;JsonParser recherche, erste Gehversuche, Json einlesen to Object
+Dienstag;Dokumentation: InstallFix, DfcTempDeleter
+Dienstag;Recherche Newtonsoft.json, Anwendungstests
+Mittwoch;NewtonSoftBaum analysieren, Diagramm erstellt
+Mittwoch;ausführlichere Tests JsonFormater 
+Donnerstag;Dokumentation Installfix, Tempdeleter + upload
+Donnerstag;DFC-Support, Dokumentation Review, Sprint-Aktualisierung
+Freitag;Besprechung: Stand Projekt Logfilebrowser + Präsentation
+Freitag;Visualiserung Newtonsoft ObjectTree
+

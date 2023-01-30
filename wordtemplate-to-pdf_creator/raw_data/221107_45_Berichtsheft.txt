@@ -1,0 +1,5 @@
+Montag;Urlaub
+Dienstag;Urlaub
+Mittwoch;Zwischenprüfung
+Donnerstag;Urlaub
+Freitag;Urlaub

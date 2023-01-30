@@ -1,0 +1,8 @@
+Montag;C#-Übungen auf Lernplattform
+Dienstag;Einführung TicketExpert Formularerstellung
+Dienstag;Formular erstellt
+Mittwoch;erweiterte Einführung Formularerstellung c#expressions
+Mittwoch;weitere Formularerstellung und verlinkung (sql)
+Donnerstag;Urlaub
+Freitag;Urlaub
+

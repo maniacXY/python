@@ -1,0 +1,8 @@
+Montag;C#-Programm entwickelt zum cleanen von Temp
+Dienstag;Programm überarbeitet getestet
+Dienstag;Ausarbeitung: Scum Backlog / Roadmap
+Mittwoch;Präsentation Roadmap / Backlog
+Donnerstag;Erstellung Srintlog 1 / Absprache
+Donnerstag;Projektbesprechung
+Freitag;Überarbeitung IntallFix-Script
+Freitag;UserSupport

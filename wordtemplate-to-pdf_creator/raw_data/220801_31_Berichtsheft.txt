@@ -1,0 +1,13 @@
+Montag;Einarbeitung Klassen C#
+Montag;Übungen C#
+Dienstag;C#-Schnittstellen Erstellung/Implementierung
+Dienstag;Schnittstellen üben, C#-Doku zusammentragen
+Dienstag;DFC-Support,C#Bibliotheken einbinden
+Dienstag;"Verbessern des Klassenprinzips beim Programm ""TempDeleter"""
+Mittwoch;C# - AsyncProcess, Git inistialisierung / clone
+Mittwoch;Einführung in Projekt und in ProgrammLib
+Donnerstag;List<T>, Array, Enums, Übungen
+Donnerstag;Einführung in Projekt 2, TicketExpert
+Freitag;C# Schnittstellen, Einarbeitung/Übungen
+Freitag;DFC2-Support, Installfix 3.Runde, Access-Abfrage
+

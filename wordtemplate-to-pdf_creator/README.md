@@ -111,3 +111,11 @@ a = get_collection(INPUTPATH)
         output = "{}/{}_xKW{}_Berichtsheft.pdf".format(OUTPUTPATH,entry["date"], entry["Kalenderwoche"])
         Creator(data=entry, output=output)
 ```
+
+## csv to pdf
+```python
+from csvtopdf.csv_reader import CSV_Reader
+reader = CSV_Reader()
+reader.readFile()
+reader.readFolder()
+```

@@ -1,5 +1,0 @@
-Montag;krank
-Dienstag;krank
-Mittwoch;krank
-Donnerstag;krank
-Freitag;krank

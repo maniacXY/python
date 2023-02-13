@@ -31,7 +31,7 @@ class CSV_Reader:
             #reader = csv.DictReader(csvfile, delimiter=";", header=None)
             for row in reader: 
                 # row0 = Name of the Day
-                if len(row) > 1:
+                if len(row) > 0:
                     if row[0] not in dataDict:
                         dataDict[row[0]] = []
                     # row1 = Data from Day 
@@ -61,7 +61,7 @@ class CSV_Reader:
         except Exception as e :
             print(e)
             print(file)
-        pprint(berichte)
+        return berichte
         
     def namingReportHeader(self, fileName):
         header = {
@@ -80,15 +80,20 @@ class CSV_Reader:
         # convert into datetime format
         dateFormat =  datetime.strptime(splitFile[0], '%y%m%d')
         #print(str(dateFormat.month).zfill(2))
-        header["Tätigkeitsnachweis"] = self.Berichtsnummer
+        header["Tätigkeitsnachweis"] = str(self.Berichtsnummer)
         self.Berichtsnummer += 1
         header["Monat"] = str(dateFormat.month).zfill(2)
         header["Ausbildungsjahr"] = dateFormat.strftime("%Y")
         header["date"] = dateFormat.strftime("%y%m%d")
         signDate = dateFormat + timedelta(days=5)
         header["sign_date"] = signDate.strftime("%d.%m.%y")
-
+        self.Berichtsnummer +=1
         return header
         # return a dict with all header data
         
-
+    # def getBerichteDict(self):
+    #     output = self.namingReportHeader(file)
+    #     berichte = self.readFolder
+    #     output["Berichte"] = berichte
+        
+    #     return output

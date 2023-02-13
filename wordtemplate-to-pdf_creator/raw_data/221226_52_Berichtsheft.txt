@@ -1,5 +1,0 @@
-Montag;Urlaub
-Dienstag;Urlaub
-Mittwoch;Urlaub
-Donnerstag;Urlaub
-Freitag;Urlaub

@@ -1,5 +1,0 @@
-Montag;Formater mit NewtonsoftMethods bauen, Testphase
-Dienstag;Newtonsoft auf DocuTerm losgelassen
-Mittwoch;krank
-Donnerstag;krank
-Freitag;krank

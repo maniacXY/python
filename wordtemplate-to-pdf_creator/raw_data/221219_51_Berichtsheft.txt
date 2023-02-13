@@ -1,5 +1,0 @@
-Montag;new funtion Formater, evaluated Parser, Tests
-Dienstag;jsonParser fertigestellt, Tests, Documentation
-Mittwoch;Branchumzug, Formater-Docu, AzureDevDoku
-Donnerstag;Urlaub
-Freitag;Urlaub

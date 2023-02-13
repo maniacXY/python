@@ -1,5 +1,0 @@
-Montag;Krank
-Dienstag;Krank
-Mittwoch;C# ExtensionsMethods, Tuples
-Donnerstag;C# Datetimes,String formatting
-Freitag;DFC Bibliotheken verstehen/testing

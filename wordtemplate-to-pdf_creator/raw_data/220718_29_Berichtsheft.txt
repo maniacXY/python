@@ -1,8 +1,0 @@
-Montag;C#-Training, Registry Fehlersuche
-Dienstag;Registry Fehlersuche, Access Datenbankafragen
-Dienstag;Finalisierung PowershellScript und User-Anleitung
-Mittwoch;Vorbereitung Präsentation Log-Handler, C# WPF-Einarbeitung
-Donnerstag;new Version PowerShellScript, UserEnroll to fix Installation
-Donnerstag;Install SQL, Lesson C#-SQL
-Freitag;SQL-Lesson, first-level-support DFC
-Freitag;Recherche Lasten/Pflichtenheft/Scrum

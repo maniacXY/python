@@ -1,5 +1,0 @@
-Monatg;Einarbeitung Azure DevOps, Erstellung Feature/Story
-Dienstag;Prüfungsvorbereitung, DevOps anlegen
-Mittwoch;Prüfungsvorbereitung, PC-Updaten
-Donnerstag;Azure DevOps + Projektplanung
-Freitag;Prüfungsvorbereitung + Übungen

@@ -1,9 +1,0 @@
-Montag;JsonLog-Format besprechen + logic
-Dienstag;start eigene Library für JsonFormater
-Dienstag;Strukturaufbau, Schnittstellen vertiefung
-Mittwoch;Testläufe DocuTerm to Json-Format
-Mittwoch;Überarbeitung,Konzept überlegen
-Donnerstag;Besprechung mit Anleitung + Feedback
-Donnerstag;Konzept wurde optimiert und leicht abgeändert
-Freitag;Start Umsetzung von Donnerstag
-Freitag;Projektdokumentation

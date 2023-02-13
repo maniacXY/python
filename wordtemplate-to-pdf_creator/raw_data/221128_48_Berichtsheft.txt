@@ -1,6 +1,0 @@
-Montag;Projektbesprechung new DFC, with turkish ATMO, Brainstorm, Analyse
-Dienstag;DeepLearning Project dlls / libs
-Mitwoch;Dokumentation Git-Cheatsheet, Git-Tests
-Donnerstag;Test Azure-Workflow Umsetzung
-Freitag;Test Azure/Git-Workflow umsetzung, Dokumentation
-

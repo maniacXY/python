@@ -1,5 +1,0 @@
-Montag;PC-Updaten, JsonConverter checken
-Dienstag;Schulung DFC, Schnittstellen testen
-Dienstag;JToken, JArray, JValue, Documentation
-Donnerstag;JToken, JObjects, Schulung DFC-PSP.lib
-Freitag;JsonConverter erweitert, getetest, besprochen

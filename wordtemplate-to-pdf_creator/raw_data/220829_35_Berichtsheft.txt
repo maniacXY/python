@@ -1,6 +1,0 @@
-Montag;SQL Database anlegen / strukturieren
-Dienstag;C# Übungen String, Inheritance
-Mittwoch;Einführung mit DFC Libraries und Anwendung
-Donnerstag;Dokumentation,TestProjekte
-Freitag;JsonLog Entwurf und Logik
-Freitag;Schnittstellen, DebugTest (Assert), NullValues

@@ -29,7 +29,7 @@ class Creator(PDF):
         "font_size_content": 12,
         "line_hight": 7,
         "sign": "mypdf_creator/sample.png",
-        "Ausbildungsgruppe": "YOUR GROUP",
+        "Ausbildungsgruppe": "xx-xx-xx",
         "Name":"Mustermann, Max"
     }
 

@@ -1,5 +1,0 @@
-Montag;Formater überarbeiten
-Dienstag;Prüfungsvorbereitung
-Mittwoch;Prüfungsvorbereitung, Tests für Formater
-Donnerstag;Urlaub
-Freitag;Urlaub

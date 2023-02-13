@@ -1,5 +1,0 @@
-Montag;JsonParser, new Methods, own deserializer ...
-Dienstag:Try to Parse in seprerate Object, Git-Repo-Cleaning
-Mittwoch;Code review, Anpassungen, Draw.io Char - Json-Aufbau
-Donnerstag;splittet JsonTree, create Template, tried to split functions
-Freitag;added funtionality to formater, got progress in parser, documentation
